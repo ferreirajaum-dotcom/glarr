@@ -1,0 +1,8 @@
+{
+  "name": "Glar Representações - Têxtil B2B",
+  "description": "Site profissional e imponente para Glar Representações, conectando indústrias têxteis de elite a confecções em todo o Brasil.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
